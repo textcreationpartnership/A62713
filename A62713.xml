@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the bishops and clergy of England and Wales, the state of the cruel persecution, imprisonment (many to death) and spoil of goods inflicted upon the people called Quakers Only for their religious meetings, and obeying, serving, and worshipping Almighty God that made them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62713</idno>
+            <idno type="STC">Wing T1388A</idno>
+            <idno type="STC">ESTC R220119</idno>
+            <idno type="EEBO-CITATION">99831547</idno>
+            <idno type="PROQUEST">99831547</idno>
+            <idno type="VID">36010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the bishops and clergy of England and Wales, the state of the cruel persecution, imprisonment (many to death) and spoil of goods inflicted upon the people called Quakers Only for their religious meetings, and obeying, serving, and worshipping Almighty God that made them.</title>
+                  <author>Robertson, Thomas, fl. 1658-1685. aut</author>
+                  <author>Bland, Richard, of London. aut</author>
+                  <author>J. B. (John Bowater), d. 1704. aut</author>
+                  <author>Ingram, William, tallow chandler. aut</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed and dated at end: Thomas Robertson, Richard Blank, John Bowater, William Ingram. London, the 30th. of the 1st month, called March, 1685.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36010:1"/>
+            <pb facs="tcp:36010:1" rendition="simple:additions"/>
+            <head>
+               <hi>TO THE Biſhops and Clergy OF England and Wales,</hi> The State of the Cruel Perſecution, Impriſonment (many to Death) and Spoil of Goods inflicted upon the People called <hi>QUAKERS.</hi>
+            </head>
+            <head type="sub">Only for their <hi>Religious Meetings,</hi> and Obeying, Serving, and Worſhipping <hi>Almighty God</hi> that Made them.</head>
+            <p>IN the Year 1680, a Brief Account of the ſad Sufferings of the ſaid People (from the Year 1660) was preſented to King <hi>Charles</hi> the Second, and his Parliament, in Print, as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Firſt, <hi>That in that Time, according to Accounts then come to hand, there had died of the People called</hi> Quakers <hi>aforeſaid, in Priſon, and Priſoners, for the Exerciſe of their Faith and Conſcience in Matters of Religion and Worſhip to<g ref="char:EOLhyphen"/>wards Almighty God: ſome of whom had been beaten and bruiſed, being knock'd down at their Peaceable Meetings, and died of their Wounds, to the Number of</hi>
+                     </cell>
+                     <cell>243.</cell>
+                  </row>
+                  <row>
+                     <cell>Secondly, <hi>That then remained in Priſon in the ſeveral</hi> Goals <hi>in</hi> England <hi>and</hi> Wales <hi>for the Teſtimony of a good Conſcience, (many of whom were Proſecuted by</hi> Writs <hi>of</hi> Excommunicato Cap. <hi>divers of them having been cloſely Confin'd, upon that Account, for ſeveral Years then paſt) in Number,</hi>
+                     </cell>
+                     <cell>276.</cell>
+                  </row>
+                  <row>
+                     <cell>Thirdly, <hi>The Number of thoſe that had ſuffered Impriſonment for Meeting, and refu<g ref="char:EOLhyphen"/>ſing, for Conſcience-ſake, to</hi> Swear, <hi>ſome of them having had the</hi> Sentence <hi>of a</hi> PRAE<g ref="char:EOLhyphen"/>MUNIRE <hi>paſs'd upon them, and divers had their Goods and Chattels Diſtrained and taken away,</hi>—Viz.</cell>
+                     <cell>9437.</cell>
+                  </row>
+                  <row>
+                     <cell>Fourthly, <hi>The Number of the ſaid People Excommunicated and Impriſoned for not Con<g ref="char:EOLhyphen"/>forming to the Publick Worſhip (which were but a few in compariſon to the many that have been ſo Proſecuted)</hi> Viz.</cell>
+                     <cell>624.</cell>
+                  </row>
+                  <row>
+                     <cell>Fifthly, <hi>Sentenc'd for</hi> Baniſhment, <hi>for Meeting together to Worſhip God:</hi> Viz.</cell>
+                     <cell>198.</cell>
+                  </row>
+                  <row>
+                     <cell>And this Inſtant Year 1685, there was preſented to King <hi>James</hi> the Second, the Account of preſent Priſoners for the Teſtimony of a good Conſcience, and their Religious Meetings, in Obeying and Worſhipping of God, to the Number of</cell>
+                     <cell>1460.</cell>
+                  </row>
+                  <row>
+                     <cell>With Account of Priſoners that died for their Faith and Worſhip, ſince the Account in 1680.</cell>
+                     <cell>78.</cell>
+                  </row>
+                  <row>
+                     <cell role="total">The Number of all the ſaid Sufferers, come to hand, amounting to</cell>
+                     <cell role="total">12316.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Note, <hi>That ſome of the preſent Priſoners are ſtill continued upon the above ſaid Account in</hi> 1680.</p>
+            <p>And ſince, we have had <hi>Account</hi> of ſeveral more that are ſent to Priſon, &amp; ſome more have died Priſoners.</p>
+            <p>Beſides many that have ſuffered Impriſonment ſince the Year 1680, and a great Number diſtrained upon, and their Goods ſpoiled, and made havock of by <hi>Infor<g ref="char:EOLhyphen"/>mers</hi> (and ſome <hi>Prieſts</hi> have been <hi>Informers</hi>) for their Religious Peaceable Meetings, and not coming to the Pariſh-Worſhip; to the Ruine of many both in their <hi>Husbandry</hi> and <hi>Trade;</hi> ſome nor having had a <hi>Bed</hi> left to lye upon, nor a <hi>stool</hi> to ſit on, nor a <hi>Cow</hi> to give <hi>Milk</hi> for their poor Children, nor <hi>Corn</hi> for <hi>Bread,</hi> or <hi>Seed,</hi> or <hi>Drink,</hi> nor <hi>Tools</hi> to work withal, <hi>&amp;c.</hi> The Value of which Goods ſo taken and made havock of, as well as the number of Sufferers upon the ſaid Accounts, and by Impriſonments, is conſiderable (not here inſerted.)</p>
+            <pb n="2" facs="tcp:36010:2"/>
+            <p> NOW let the <hi>Biſhops</hi> and <hi>Clergy</hi> in <hi>England</hi> and <hi>Wales,</hi> conſider the ſad and cruel Suffer<g ref="char:EOLhyphen"/>ings by Impriſonment, (many to Death) and Spoil of Goods, as aboveſaid, inflicted upon the People called <hi>Quakers</hi> for their Religious <hi>Meetings,</hi> and only for <hi>Obeying, Serving,</hi> and <hi>Worſhipping Almighty God that made them.</hi> And were not your <hi>Fore-Fathers</hi> once <hi>Diſſenters</hi> from the <hi>National Worſhip?</hi> And was it Juſt in them that <hi>Perſecuted</hi> your <hi>Forefathers</hi> for nor Conforming to the <hi>Sacrament</hi> of the <hi>Altar,</hi> and other things? And do not you now fol<g ref="char:EOLhyphen"/>low their Example that <hi>Perſecuted</hi> your <hi>Fore-Fathers,</hi> in your <hi>Impriſoning</hi> and <hi>Perſecuting Protestants</hi> for their tender Conſcience-ſake towards <hi>God,</hi> &amp;c. And though there are many <hi>Sects</hi> and diverſities of <hi>Orders</hi> among the <hi>Roman-Catholicks,</hi> and ſeveral Sorts and <hi>Sects</hi> were among the <hi>Jews</hi> (as you read in the Scriptures) yet <hi>Both</hi> were, and are kept from <hi>Perſe<g ref="char:EOLhyphen"/>cuting</hi> one another among themſelves. And therefore why ſhould you that profeſs your ſelves <hi>Proteſtants,</hi> Perſecute <hi>Proteſtants,</hi> or any, ſeeing that you have no ſuch Command from Chriſt and his Apoſtles, but, <hi>To love one another, and to love Enemies?</hi> And, <hi>Chriſt by the Grace of God, hath taſted Death for every Man:</hi> So he has bought Mankind by his <hi>Death:</hi> And <hi>God would have all Men to be</hi> Saved: Therefore why ſhould any <hi>Deſtroy</hi> them in their <hi>Lives</hi> or <hi>Eſtates</hi> by <hi>Impriſonment,</hi> becauſe they cannot be of their Way? For Chriſt com<g ref="char:EOLhyphen"/>mands, <hi>Let the Tares and the Wheat grow together till the Harveſt:</hi> which is the End of the World. And would the <hi>Biſhops</hi> and <hi>Clergy</hi> be ſerved ſo themſelves, to be <hi>Caſt into Priſon till Death,</hi> and their <hi>Goods ſpoiled,</hi> for Worſhipping and Serving God that Made them? Would they ſay, it was according to the Nobility of true <hi>Chriſtianity,</hi> and the Royal Law of God, <hi>To do unto others as they would have them do unto them?</hi> Or, were that, <hi>To love their Neighbour as them<g ref="char:EOLhyphen"/>ſelves?</hi> And is it not a ſad thing, to ſee <hi>Proteſtants Deſtroy and Ruin Protestants,</hi> both by <hi>Im<g ref="char:EOLhyphen"/>priſonment</hi> and in <hi>Eſtate!</hi> And therefore conſider the Juſtneſs of the Lord, if he ſhould ſuffer You to come under the ſame <hi>Puniſhment,</hi> how You then would ſtand to your own <hi>Prin<g ref="char:EOLhyphen"/>ciples,</hi> which you have forced others unto? and how You would bear the ſame <hi>Puniſhment you have inflicted upon others,</hi> for not following them? Therefore conſider whil'ſt God hath given you a Day, and a Viſitation, to <hi>do good while you have Power;</hi> for if your Power ſhould be taken away from you, then 'twill be too late for you <hi>to do good:</hi> For, <hi>God will render to eve<g ref="char:EOLhyphen"/>ry one according to his Deeds.</hi>
+            </p>
+            <p>And doth not <hi>Tillotſon,</hi> (one of your own <hi>Doctors</hi>) ſay in his Sermon on <hi>Luke</hi> 9.55, 56. Preached the 5th. of <hi>November,</hi> 1678. (pag. 6, 7.) <hi>Viz.</hi> 
+               <q>That there were thoſe in the Pri<g ref="char:EOLhyphen"/>mitive Times would have called for <hi>Fire to come down from Heaven to Deſtroy</hi> ſome that would not receive Chriſt; but Chriſt Rebuked them, telling them, <hi>They knew not what Spi<g ref="char:EOLhyphen"/>rit they were of:</hi>
+               </q> that is (ſays D. <hi>Tillotſon</hi>) <q>
+                  <hi>Ye own your ſelves to be my Diſciples, but do you conſider what Spirit now Acts and Governs you? Not that ſurely which my Doctrine deſigns to mould and faſhion you into, which is not a Furious, Perſecuting and Deſtructive Spirit; but Mild, Gentle and Saving, Tender of the Lives and Intereſts of Men, even of thoſe who are our greateſt Enemies.</hi>
+               </q> And further (pag. 7.) he ſays, <q>
+                  <hi>And now no Difference of Religion, no pretence of Zeal for God and Chriſt can Warrant and Juſtifie this</hi> Paſſionate <hi>and</hi> Fierce, <hi>this</hi> Vindictive <hi>and</hi> Exterminating Spirit; <hi>for the Son of Man came not to Deſtroy Mens Lives, but to Save them.</hi>
+               </q> (Thus far Doctor <hi>T.</hi>)</p>
+            <p>Now let the <hi>Biſhops</hi> and <hi>Clergy</hi> conſider how many hundred Mens Lives have been deſtroy<g ref="char:EOLhyphen"/>ed by <hi>Impriſonment</hi> through them? And how many hundreds have been made <hi>Widdows</hi> and <hi>Fatherleſs</hi> thereby? And how many hundreds have been Ruined in their <hi>Perſons</hi> and <hi>Eſtates</hi> ſince the Year 1660, through their's and the <hi>Clergy-Mens</hi> means, for Obeying, Serving, and Worſhipping God that made them?</p>
+            <p>And whereas it hath been often alledged to us, that the Apoſtle <hi>Paul</hi> ſays, <hi>Let every Soul be ſubject to the Higher Power,</hi> &amp;c. And that <hi>Peter</hi> ſays, <hi>Submit your ſelves to every Ordinance of Man for the Lord's ſake, whether it be to the King as</hi> Supreme, <hi>or unto Governours ſent by him for the Puniſhment of Evil-Doers, and the Praiſe o them that do well,</hi> 1 Pet. 2. And as <hi>Paul</hi> ſays, <hi>Knowing that the Law is not made for the Righteous Man, but for the Lawleſs, Diſobedient, <g ref="char:V">Ʋ</g>ngodly,</hi> Sinners, <hi>
+                  <g ref="char:V">Ʋ</g>nholy and Prophane, for Murderers of Fathers and of Mothers, and for Man<g ref="char:EOLhyphen"/>ſlayers, for Whoremongers, and for them that defile themſelves with Mankind, for Lyars and perjured Perſons,</hi> &amp;c. Now theſe were the <hi>Evil-Doers</hi> which are to be puniſhed, 1 <hi>Tim.</hi> 1. And as the Apoſtles ſay, <hi>Let every Soul be ſubject to the higher Power, and to every Ordinance of Man for the Lord's ſake, who are for the Puniſhment of Evil-Doers, and for the Praiſe of them that do well.</hi> The Apoſtle doth not ſay, That <hi>every Soul ſhould be ſubject to the higher Power, and to every Ordinance of Man for the Lord's ſake, for Puniſhment of People for Serving and Worſhip<g ref="char:EOLhyphen"/>ping of God in Matters of Faith, Religion and Worſhip:</hi> For Chriſt and the Apoſtles never gave forth any ſuch Command or Ordinance; and therefore the <hi>Chriſtians</hi> in the Apoſtles Days, their Souls were to be ſubject to the <hi>Higher Power,</hi> and to ſubmit to every <hi>Ordinance</hi> of <hi>Man</hi> for the Lord's ſake, who are for the Puniſhment of <hi>Evil-Doers</hi> (and the Apoſtle <hi>Paul</hi> tells you <hi>whom</hi> the <hi>Law</hi> was made againſt, and what <hi>Evil-Doers</hi> they were, that were, and
+<pb n="3" facs="tcp:36010:2"/>are to be <hi>Puniſhed,</hi> as before mentioned) <hi>and for a Praiſe to them that do well.</hi> For the <hi>Law</hi> was not made againſt the <hi>Righteous,</hi> but to puniſh ſuch <hi>Sinners</hi> and <hi>Evil-Doers</hi> as the Apoſtle ſpeaks of, but not to puniſh <hi>Chriſtians</hi> for their <hi>Faith</hi> and <hi>Religion,</hi> and for <hi>Worſhipping, Obeying</hi> and <hi>Serving</hi> Almighty God that made them. For did not <hi>Peter,</hi> and <hi>Paul,</hi> and other Apoſtles and Chriſtians <hi>ſuffer</hi> for Matters of Religion, and their <hi>Obeying, Serving,</hi> and <hi>Wor<g ref="char:EOLhyphen"/>ſhipping</hi> of God, who could not obey the <hi>Doctrines, Ordinances,</hi> or <hi>Commandments</hi> of the <hi>Jews,</hi> nor <hi>Diana's,</hi> nor of the <hi>Romans?</hi> For if he and the reſt of the Chriſtians and Apoſtles had, then they had not ſuffered.</p>
+            <p>And the Apoſtle ſaith (<hi>Coloſſians</hi> 2.20, 21, 22.) <hi>If ye be dead with Chriſt from the Rudiments of the World, why as though living in the World, are you ſub<g ref="char:EOLhyphen"/>ject to Ordinances, touch not, taſte not, handle not? Which all are to periſh with the uſing after the Commandments and Doctrines of Men.</hi> So here you may ſee, there were <hi>Doctrines, Ordinances,</hi> and <hi>Commandments</hi> of <hi>Men,</hi> concerning <hi>Religion</hi> and <hi>Worſhip,</hi> that were not to be <hi>Touched</hi> with, nor <hi>Tasted,</hi> nor <hi>Handled:</hi> And yet the Apoſtle ſaith, <hi>Submit your ſelves to every Ordinance of Man for the Lord's ſake, which are for the puniſhment of Evil-doers.</hi> So theſe <hi>Ordinances</hi> of <hi>Men</hi> for the puniſhment of ſuch <hi>Evil-doers.</hi> (as before mentioned) every ſoul was to ſubmit to that <hi>higher Power,</hi> for theſe were for the <hi>praiſe</hi> of them that do well: Yet they were not to ſubmit to the <hi>Ordinances, Commandments,</hi> or <hi>Doctrines</hi> of Men in matters of <hi>Faith, Religion</hi> and <hi>Worſhip,</hi> nor to <hi>touch, taſte</hi> nor <hi>handle</hi> them; and therefore the Chriſtians ſuffered by the <hi>Jews</hi> and by the <hi>Heathen-Romans,</hi> and <hi>Diana's Worſhippers;</hi> as you may ſee in the <hi>Ten Perſecutions,</hi> and in the Scriptures. Therefore we deſire you to make a Diſtinction betwixt the <hi>Ordinances</hi> of the <hi>Higher Power,</hi> their <hi>Laws</hi> and <hi>Ordinances,</hi> for the puniſhment of Evil-doers, as before mentioned; and likewiſe ſuch <hi>Ordinances, Commandments</hi> and <hi>Do<g ref="char:EOLhyphen"/>ctrines</hi> of <hi>Men,</hi> that the Chriſtians were not to be ſubject unto in matters of <hi>Faith, Religion</hi> and <hi>Worſhip,</hi> and were not to <hi>touch, taſte</hi> nor <hi>handle</hi> them, and therefore they ſuffered.</p>
+            <p>And pray, What <hi>spirit</hi> was and is this, that has made Chriſtians to <hi>ſuffer</hi> for <hi>Religion,</hi> and <hi>Serving</hi> and <hi>Worſhipping</hi> of God ſince the Apoſtles days? Not Chriſt's nor his Apoſtles; for Chriſt tells them plainly, that would have had <hi>Fire</hi> to come down from Heaven upon them that would not receive him, <hi>Ye know not what ſpirit you are of.</hi> And therefore, all in Chriſtendom, that have <hi>Perſecuted</hi> people for matters of <hi>Faith</hi> &amp; <hi>Religion,</hi> &amp; <hi>ſerving</hi> and <hi>wor<g ref="char:EOLhyphen"/>ſhipping</hi> God that made them, have they known what <hi>ſpirit</hi> they were and are of themſelves? And therefore have ſuch the <hi>ſpirit</hi> of <hi>Chriſt,</hi> that <hi>know not what ſpirit they are of themſelves?</hi> For the Apoſtle ſays, <hi>They that have not the ſpirit of Chriſt, are none of his:</hi> And the ſame Apo<g ref="char:EOLhyphen"/>ſtle ſays, <hi>He that is born of the Fleſh, will perſecute him that is born of the Spirit:</hi> But we never read, that he that is born of the <hi>ſpirit,</hi> did <hi>perſecute</hi> any about <hi>Religion, Faith</hi> and <hi>Worſhip,</hi> in the New Teſtament.</p>
+            <p>And ſo we deſire you to come to the <hi>ſpirit</hi> of Chriſt, that you may make a Diſtinction, as the <hi>Apoſtle</hi> did, between thoſe <hi>Doctrines, Commandments</hi> and <hi>Ordinances</hi> of Men, that are not to be <hi>Touch'd, Taſted,</hi> nor <hi>Handled;</hi> and the <hi>Laws</hi> and <hi>Ordinances</hi> of Men which the Chriſti<g ref="char:EOLhyphen"/>ans are to ſubmit themſelves unto for the Lord's ſake, for the Puniſhment of Sinners and <hi>Evil-Doers,</hi> as the Apoſtle <hi>Paul</hi> ſpeaks of before; for he made a Diſtinction. And ceaſe from Im<g ref="char:EOLhyphen"/>priſoning and Perſecuting both <hi>Proteſtants</hi> and others that profeſs <hi>Christianity,</hi> and give over <hi>ſpoiling</hi> their <hi>Goods</hi> for <hi>Religion, Faith,</hi> and <hi>Worſhip,</hi> and their Serving and Worſhipping of God. And let the <hi>Biſhops</hi> and <hi>Prieſts</hi> ſet open all the Priſon-Doors for the Priſoners to go free, that through their means have been caſt into Priſon, and their Goods Reſtored them again, that through any of their means have been taken from them, for the relief of their poor Families: and if not, ſee how you can prove your <hi>Doctrines, Commandments,</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi> of Perſecution from <hi>Chriſt</hi> and his <hi>Apostles</hi> Doctrine; without which you muſt ac<g ref="char:EOLhyphen"/>knowledge your <hi>Doctrines, Commandments,</hi> and <hi>Ordinances</hi> to be of the <hi>Ordinances</hi> of Men, that have not known <hi>what ſpirit they were of,</hi> which are not to be <hi>Touch'd, Tasted,</hi> nor <hi>Han<g ref="char:EOLhyphen"/>dled,</hi> as the <hi>Apostle</hi> ſays. And if you would haue us Conform to ſuch <hi>Doctrines, Ordinances,</hi> and <hi>Commandments</hi> of Men, that do not know what <hi>ſpirit</hi> they are of themſelves, and which (the <hi>Apoſtle</hi> ſays) are not to be <hi>Touch'd, Tasted, nor Handled,</hi> that <hi>Act</hi> contrary to the Royal Law of God, and <hi>Do unto others, as they would not have others do unto them:</hi> Would you be ſerved ſo your ſelves?</p>
+            <p>So we pray, Conſider, and <hi>do unto others as you would have others do unto you;</hi> and <hi>love your Neighbour as your ſelves:</hi> and let nothing be in your <hi>Pulpits,</hi> but the ſound of the Joyful, Glo<g ref="char:EOLhyphen"/>rious Goſpel of <hi>Life, Peace,</hi> and <hi>Salvation</hi> to every Creature under Heaven; and <hi>freely if ye have received it, freely give it:</hi> For neither <hi>Chriſt</hi> nor the <hi>Apoſtles</hi> did preach up a <hi>Doctrine, Ordinance,</hi> or <hi>Commandment</hi> to <hi>Impriſon to Death, Perſecute,</hi> and <hi>ſpoil Goods</hi> of them that did not Conform to <hi>Chriſt's</hi> and the <hi>Apoſtles</hi> Doctrine; no, not ſo much as againſt <hi>Blaſphemers, Schiſmaticks, Hereticks</hi> and <hi>Seducers:</hi> Were not they to <hi>Overcome Evil with Good?</hi> and were not their Weapons to be Spiritual, and not Carnal? and are not <hi>Goals</hi> and <hi>Carnal Weapons</hi>
+               <pb n="4" facs="tcp:36010:3"/>(to <hi>Force</hi> People to <hi>Ordinances, Doctrines,</hi> and <hi>Commandments</hi> of Men) contrary to the <hi>ſpiritual Weapons</hi> and <hi>Armour</hi> that the <hi>Apoſtles</hi> warr'd withal in the Primitive Times?</p>
+            <p>Therefore we pray you again to Conſider, what ground you have out of the New Teſta<g ref="char:EOLhyphen"/>ment from Chriſt and his Apoſtles, who profeſs your ſelves Chriſtians, to <hi>ſpoil Goods, caſt into Priſon (yea many to Death)</hi> and to war with <hi>Carnal Weapons</hi> and <hi>Armour</hi> againſt ſuch ten<g ref="char:EOLhyphen"/>der Conſciences in matters of difference in <hi>Religion</hi> and <hi>Faith,</hi> and that do <hi>obey, Serve</hi> and <hi>Worſhip</hi> in Spirit and Truth, Almighty God that made them? Would not <hi>You</hi> have <hi>Liberty</hi> for your Tender Conſciences? And if ſo, why ſhould you be againſt <hi>Others,</hi> that they ſhould not have the ſame <hi>Liberty</hi> of their Tender Conſciences, that <hi>Diſſent</hi> from you, as you would have your ſelves? And if not, do you fulfill the Royal Law of God, <hi>To do unto others, as you would have them do unto you?</hi> And doth not the Lord ſay, <hi>I will have MERCY and not Sa<g ref="char:EOLhyphen"/>crifice?</hi> So you may ſee, that it is <hi>Mercy</hi> that the Lord looks for, who is <hi>Merciful, &amp;c.</hi> And doth not the Lord require of Man, <hi>To do Juſtice, to love MERCY, and to walk humbly with God?</hi> Mich. 5.8.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 30<hi>th.</hi> of the 1<hi>ſt.</hi> Month, called <hi>March,</hi> 1685</date>.</dateline>
+               <signed>Signed in Behalf of our Suffering Friends,
+<list>
+                     <item>
+                        <hi>Thomas Robertſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bland,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bowater,</hi>
+                     </item>
+                     <item>
+                        <hi>William Ingram.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36010:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
